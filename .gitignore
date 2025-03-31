@@ -2,7 +2,6 @@
 
 #folders and files
 /.vscode
-/public
 tsconfig.spec.json
 
 # Compiled output
